@@ -9,7 +9,7 @@ import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
 
 public class MainActivity extends AppCompatActivity {
-    private ProgressBar mProgressBar;
+    private ProgressBar mProgressBar;jhhh
     private WebView mWebView;
 
     private String urlToload =nnnnn "https://www.google.lk/webhp?hl=en&sa=X&ved=0ahUKEwiZwtiMpsSJAxWEzjgGHavjD5QQPAgI";
