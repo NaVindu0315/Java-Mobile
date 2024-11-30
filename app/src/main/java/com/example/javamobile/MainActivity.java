@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar mProgressBar;jhhh
     private WebView mWebView;
 
-    private String urlToload =nnnnn "https://www.google.lk/webhp?hl=en&sa=X&ved=0ahUKEwiZwtiMpsSJAxWEzjgGHavjD5QQPAgI";
+    private String urlToload =nnnnnikkkk "https://www.google.lk/webhp?hl=en&sa=X&ved=0ahUKEwiZwtiMpsSJAxWEzjgGHavjD5QQPAgI";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
